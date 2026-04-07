@@ -21,21 +21,12 @@ data.
 ## 🛠️ Tech Stack
 
 -   Python
--   TensorFlow / Keras
+-   Keras
 -   NumPy
 -   Matplotlib
--   OpenCV (optional)
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-DogsVsCats/ │── dataset/\
-│── models/\
-│── notebooks/ │ └── DogsVsCatClassifier.ipynb │── README.md │──
-requirements.txt
-
-------------------------------------------------------------------------
 
 ## 📊 Dataset
 
@@ -45,15 +36,6 @@ requirements.txt
 
 ------------------------------------------------------------------------
 
-## ⚙️ Installation
-
-1.  Clone the repository: git clone `<your-repo-link>`{=html}
-
-2.  Navigate to the project folder: cd DogsVsCats
-
-3.  Install dependencies: pip install -r requirements.txt
-
-------------------------------------------------------------------------
 
 ## ▶️ Usage
 
@@ -70,25 +52,11 @@ requirements.txt
 
 ## 📈 Model Performance
 
--   Accuracy: XX%
--   Loss: XX
+-   Accuracy: 76%
+-   Loss: 0.49
 
 ------------------------------------------------------------------------
 
-## 🖼️ Sample Output
-
-Add screenshots of predictions here.
-
-------------------------------------------------------------------------
-
-## 🔥 Future Improvements
-
--   Improve model accuracy using advanced architectures
--   Add data augmentation
--   Deploy as a web application
--   Enable real-time image classification
-
-------------------------------------------------------------------------
 
 ## 🤝 Contributing
 
